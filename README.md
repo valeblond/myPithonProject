@@ -1,1 +1,1 @@
-# myPithonProject
+# myPithonProject (Pithon Kivy)
